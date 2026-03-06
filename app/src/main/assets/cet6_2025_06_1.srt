@@ -1,0 +1,668 @@
+1
+00:00:00,000 --> 00:00:07,000
+College English Test, Band 6, Part 2, Listening Comprehension
+
+2
+00:00:07,000 --> 00:00:14,000
+Section A, Directions In this section, you will hear two long conversations.
+
+3
+00:00:14,000 --> 00:00:18,000
+At the end of each conversation, you will hear four questions.
+
+4
+00:00:18,000 --> 00:00:23,000
+Both the conversation and the questions will be spoken only once.
+
+5
+00:00:23,500 --> 00:00:31,000
+After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.
+
+6
+00:00:31,000 --> 00:00:38,000
+Then mark the corresponding letter on answer sheet 1 with a single line through the centre.
+
+7
+00:00:38,000 --> 00:00:41,000
+Conversation 1
+
+8
+00:00:41,000 --> 00:00:45,000
+Good morning. My name is Bob Thetteman. I'm the computer technician.
+
+9
+00:00:45,000 --> 00:00:48,000
+Did I call for you last week?
+
+10
+00:00:48,000 --> 00:00:56,000
+Maybe. I work for Alfa maintenance. I imagine someone from your office called our central office and I'm the engineer designated to your case.
+
+11
+00:00:56,000 --> 00:01:01,000
+Yeah, I spoke to a lady there last Tuesday, which is now ten days ago.
+
+12
+00:01:01,000 --> 00:01:07,000
+I made it clear it was an urgent matter and please send someone as soon as possible.
+
+13
+00:01:07,000 --> 00:01:10,000
+Couldn't you or someone else have come sooner?
+
+14
+00:01:10,000 --> 00:01:15,000
+I'm sorry, but I'm not in charge of scheduling all logistics. I simply do not know.
+
+15
+00:01:15,000 --> 00:01:20,000
+All I can tell you is I got the call this week and came as soon as I could.
+
+16
+00:01:20,000 --> 00:01:26,000
+I see. Well, I'll have you know, my manager is rather indignant that it's taking you this long to come.
+
+17
+00:01:26,000 --> 00:01:33,000
+I understand it might not be your fault, but nevertheless you should know what the feeling is around here.
+
+18
+00:01:33,000 --> 00:01:40,000
+I understand, and I'm sorry for any inconvenience. I will try to resolve your computer problem as swiftly and optimally as I can.
+
+19
+00:01:40,000 --> 00:01:42,000
+What and where is the issue?
+
+20
+00:01:42,000 --> 00:01:49,000
+It's this machine right here. It was running slow for a while, I guess, and gradually got worse and worse.
+
+21
+00:01:49,000 --> 00:01:55,000
+Last Tuesday it just stopped working altogether. If you switch it on, you will see what I mean.
+
+22
+00:01:55,000 --> 00:01:58,000
+Okay. Do you know if it's backed up?
+
+23
+00:01:58,000 --> 00:01:59,000
+Backed up?
+
+24
+00:01:59,000 --> 00:02:03,000
+I mean, do you know if its contents have been copied and saved somewhere else?
+
+25
+00:02:03,000 --> 00:02:05,000
+I don't know.
+
+26
+00:02:05,000 --> 00:02:08,000
+Well, depending on the ensuing operative scenario,
+
+27
+00:02:08,000 --> 00:02:14,000
+if I need to wipe the system directories clean in order to reconfigure default protocols,
+
+28
+00:02:14,000 --> 00:02:19,000
+then my first intervention should be to intricately retrieve all inventories that I can.
+
+29
+00:02:19,000 --> 00:02:24,000
+Otherwise, all data that was stored on its hard drive will be forever lost.
+
+30
+00:02:24,000 --> 00:02:27,000
+My manager would now. Let me go get him.
+
+31
+00:02:27,000 --> 00:02:32,000
+Questions 1-4 are based on the conversation you have just heard.
+
+32
+00:02:32,000 --> 00:02:37,000
+Question 1. What did the woman do last Tuesday?
+
+33
+00:02:38,000 --> 00:02:52,000
+Question 2. What does the man say he did when he got the call?
+
+34
+00:02:52,000 --> 00:03:15,000
+Question 3. What is the feeling about the problem around the woman's workplace?
+
+35
+00:03:22,000 --> 00:03:43,000
+Question 4. What does the woman say her manager would know?
+
+36
+00:03:43,000 --> 00:03:48,000
+Conversation 2. Have you given more thought to studying law?
+
+37
+00:03:48,000 --> 00:03:54,000
+I've been thinking about it a lot. Yes, in fact, this is why I wished to speak to you.
+
+38
+00:03:54,000 --> 00:03:57,000
+I wanted to hear more about what it's like.
+
+39
+00:03:57,000 --> 00:04:00,000
+A career in law is a beautiful thing in my opinion.
+
+40
+00:04:00,000 --> 00:04:04,000
+Many people will say it's a boring field, but I disagree.
+
+41
+00:04:04,000 --> 00:04:08,000
+The thing is, there are many different branches of law and many different jobs.
+
+42
+00:04:08,000 --> 00:04:12,000
+You are involved with buildings and construction, right?
+
+43
+00:04:12,000 --> 00:04:19,000
+Correct. I'm a solicitor specializing in real estate. Most of my work involves mediating land disputes.
+
+44
+00:04:19,000 --> 00:04:23,000
+Do you mind giving me an example? Sure.
+
+45
+00:04:23,000 --> 00:04:28,000
+So, in many cases, I am employed to arbitrate between two clashing parties.
+
+46
+00:04:28,000 --> 00:04:36,000
+Let's say, for example, there are two landowners who are in a thorny disagreement about something, like the borders of their adjacent plots.
+
+47
+00:04:36,000 --> 00:04:40,000
+Someone may employ me to break the deadlock and resolve the dispute.
+
+48
+00:04:40,000 --> 00:04:45,000
+Often, my work involves negotiating agreements. Plain and simple.
+
+49
+00:04:45,000 --> 00:04:50,000
+So, you are saying that a lot of what you do is fix people's legal issues.
+
+50
+00:04:50,000 --> 00:04:56,000
+Like, you try to find a solution that benefits everyone and that prevents a problem from escalating.
+
+51
+00:04:56,000 --> 00:05:05,000
+Exactly. Well put. You need to remember that courts, like all bureaucracies, really, can be very messy for a straighting and expensive.
+
+52
+00:05:05,000 --> 00:05:10,000
+For this reason, it's usually better to resolve problems outside of court whenever possible.
+
+53
+00:05:10,000 --> 00:05:16,000
+I see. So, besides knowing the law inside out, you need good people skills, right?
+
+54
+00:05:16,000 --> 00:05:21,000
+Of course. Any job that involves people requires good interpersonal skills.
+
+55
+00:05:21,000 --> 00:05:26,000
+And any law professional needs to be very eloquent at articulating that argument.
+
+56
+00:05:26,000 --> 00:05:32,000
+Right. So, I've been thinking about studying criminal law. I think it sounds very interesting.
+
+57
+00:05:32,000 --> 00:05:39,000
+Hmm. Yes. I'd say there's more money in property law, but the stakes are higher in criminal law.
+
+58
+00:05:39,000 --> 00:05:42,000
+I can see how you would find it more interesting.
+
+59
+00:05:42,000 --> 00:05:47,000
+Questions 5-8 are based on the conversation you have just heard.
+
+60
+00:05:47,000 --> 00:05:52,000
+Question 5. What will many people say about a career in law?
+
+61
+00:06:03,000 --> 00:06:09,000
+Question 6. What does the man say most of his work involves?
+
+62
+00:06:22,000 --> 00:06:30,000
+Question 7. Why does the man say it's usually better to resolve problems outside of court whenever possible?
+
+63
+00:06:32,000 --> 00:06:39,000
+Question 8. What does the man think is required of any law professional?
+
+64
+00:06:39,000 --> 00:06:46,000
+Question 8. What does the man think is required of any law professional?
+
+65
+00:07:00,000 --> 00:07:06,000
+Section B. Directions. In this section, you will hear two passages.
+
+66
+00:07:06,000 --> 00:07:15,000
+At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once.
+
+67
+00:07:15,000 --> 00:07:23,000
+After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.
+
+68
+00:07:23,000 --> 00:07:29,000
+Then mark the corresponding letter on answer sheet one with a single line through the center.
+
+69
+00:07:30,000 --> 00:07:40,000
+passage 1. When a person tries to access a memory, their brains quickly examine everything stored in it to find the relevant information.
+
+70
+00:07:40,000 --> 00:07:45,000
+But as we age, many of us have difficulty retrieving memories.
+
+71
+00:07:45,000 --> 00:07:56,000
+In a review published in the journal Trends in Cognitive Sciences on February 11th, researchers propose an explanation for why this might be happening.
+
+72
+00:07:56,000 --> 00:08:06,000
+The brains of older adults allocate more space to accumulated knowledge and have more material to navigate when attempting to access memories.
+
+73
+00:08:06,000 --> 00:08:13,000
+While this wealth of prior knowledge can make memory retrieval challenging, the researchers say it has its upsides.
+
+74
+00:08:13,000 --> 00:08:18,000
+This life experience can aid with creativity and decision-making.
+
+75
+00:08:18,000 --> 00:08:33,000
+Researchers, Tarrick Amher, Dredana Wynn and Lin Hasher looked at several behavioral and brain imaging studies, which show that older adults have difficulty suppressing information that is no longer relevant.
+
+76
+00:08:33,000 --> 00:08:41,000
+And that when searching for a specific memory, they often retrieve other irrelevant memories along with it.
+
+77
+00:08:41,000 --> 00:08:51,000
+The studies also showed that when given a cognitive task, older adults rely more heavily on previous knowledge than younger adults do.
+
+78
+00:08:51,000 --> 00:09:04,000
+While the researchers focus primarily on the difficulties that these disorderly crowded memories may pose, they also highlight a few situations in which these same memory patterns may be useful.
+
+79
+00:09:04,000 --> 00:09:15,000
+Evidence suggests that older adults show preserved and at times enhanced creativity as a function of enriched memories the researchers write.
+
+80
+00:09:15,000 --> 00:09:26,000
+They further hypothesize that older adults may be well served by their prior knowledge when it comes to decision-making, where they can pull on their accumulated wisdom.
+
+81
+00:09:27,000 --> 00:09:31,000
+Questions 9-11 are based on the passage you have just heard.
+
+82
+00:09:31,000 --> 00:09:39,000
+Question 9. What did the researchers do in their review in the journal Trends in Cognitive Sciences?
+
+83
+00:09:39,000 --> 00:09:57,000
+Questions 10. What do several behavioral and brain imaging studies show?
+
+84
+00:10:10,000 --> 00:10:21,000
+Question 11. What does evidence suggest regarding older adults?
+
+85
+00:10:21,000 --> 00:10:29,000
+Question 12. What does the research suggest about the brain imaging study show?
+
+86
+00:10:29,000 --> 00:10:35,000
+Question 12. What does the research suggest about the brain imaging study show?
+
+87
+00:10:35,000 --> 00:10:49,000
+First, work can be alienating. Workers are often not in control of how they work, when they work, what is done with the goods and services they produce and what is done with the profits made from their work.
+
+88
+00:10:49,000 --> 00:11:02,000
+Second, workers are not paid the full value of their labour, real wages have not kept pace with productivity driving economic inequality under decline in labour's share of income.
+
+89
+00:11:03,000 --> 00:11:15,000
+Third, people are time poor in the US. Full time employees work an average of 8.72 hours per day despite productivity increases.
+
+90
+00:11:15,000 --> 00:11:24,000
+Long working hours contribute to the feeling of time poverty, which has an adverse effect on psychological well-being.
+
+91
+00:11:25,000 --> 00:11:45,000
+Fourth, automation puts jobs and wages at risk. Technological innovation could in theory liberate people from the 40 hour work week, but unless changes are made to the structure of work, automation will simply exert downward pressure on wages and further diminish work opportunities.
+
+92
+00:11:45,000 --> 00:11:54,000
+So, what can be done to alleviate these problems? There are competing visions of the best way to arrive at a solution.
+
+93
+00:11:54,000 --> 00:12:06,000
+One vision is what's known as the post-work position. The post-work theorists believe that work should not hold a central position in our lives or take up so much of our time.
+
+94
+00:12:06,000 --> 00:12:22,000
+They assert that although doing some work might be necessary, meaning, purpose and social value reside in the communities and relationships built and sustained outside of the workplace, thus life should be seen as an end in itself.
+
+95
+00:12:23,000 --> 00:12:27,000
+Questions 12-15 are based on the passage you have just heard.
+
+96
+00:12:28,000 --> 00:12:33,000
+Question 12, what do we learn about American workers from the passage?
+
+97
+00:12:36,000 --> 00:12:51,000
+Question 13, what does the passage say long working hours contribute to?
+
+98
+00:12:51,000 --> 00:13:06,000
+Question 14, what does automation do according to the passage?
+
+99
+00:13:22,000 --> 00:13:36,000
+Question 15, what do post-work theorists advocate?
+
+100
+00:13:37,000 --> 00:13:42,000
+Question 13, what do post-work theorists advocate?
+
+101
+00:13:43,000 --> 00:13:52,000
+In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once.
+
+102
+00:13:52,000 --> 00:14:06,000
+After you hear a question, you must choose the best answer from the four choices marked A, B, C and D. Then mark the corresponding letter on answer sheet 1 with a single line through the centre.
+
+103
+00:14:06,000 --> 00:14:20,000
+Recording 1, recent studies show that self-control and persistence increase academic outcomes independent of IQ. Even our personal beliefs about efforts can affect academic outcomes.
+
+104
+00:14:21,000 --> 00:14:27,000
+Children who think effort leads to achievement outperform those who believe ability is a fixed trait.
+
+105
+00:14:27,000 --> 00:14:42,000
+Given the link between persistence and academic success, decisions about effort are particularly important in childhood, yet relatively little research has explored how young children learn what's worth the effort.
+
+106
+00:14:43,000 --> 00:15:00,000
+We all know that infants are keen observers of the social world, but they're not just idly watching, they are tiny learning machines, they can generalize such abstract concepts as causal relationships and social roles from just a few examples.
+
+107
+00:15:00,000 --> 00:15:18,000
+Even a 15-month-old infant can outperform a high-level computer in such tasks. Could infants also make broad, generalizable inferences from a few examples when it comes to effort? If so, there may be persistence isn't simply a character trait.
+
+108
+00:15:19,000 --> 00:15:39,000
+Maybe it's flexible and adaptable based on social context. To explore this question, we showed 15-month-old babies one of two things, an experimenter working hard to achieve two different goals or an experimenter who effortlessly reached each goal.
+
+109
+00:15:39,000 --> 00:15:53,000
+Then, we introduced the baby to a novel music toy that seemed as if it could be activated by pushing a big button on top. The button could be pressed down but didn't actually activate anything.
+
+110
+00:15:53,000 --> 00:16:00,000
+Out of sight of the babies, we turned on the music toy with a hidden button so that they heard the toy making music.
+
+111
+00:16:01,000 --> 00:16:17,000
+We gave the babies the music toy and left the room. Then analysts who didn't know which condition each baby was in watched videotapes of the experiment and counted how many times babies try to activate the toy by pressing the button.
+
+112
+00:16:18,000 --> 00:16:31,000
+Across one study and a pre-registered duplication, babies who had seen an adult persist and succeed pushed the button about twice as many times as those who saw an adult effortlessly succeed.
+
+113
+00:16:31,000 --> 00:16:41,000
+In other words, babies learned that effort was valuable after watching just two examples of an adult working hard and succeeding.
+
+114
+00:16:42,000 --> 00:16:53,000
+Part of what's exciting about this finding is that the babies didn't just imitate the adult's actions, instead they generalised the value of effort to a novel task.
+
+115
+00:16:53,000 --> 00:17:07,000
+The experimenter never demonstrated pushing a button or trying to make music. Instead, the babies learned from different examples of effortful actions that the new toy probably also required persistence.
+
+116
+00:17:07,000 --> 00:17:13,000
+Questions 16-18 are based on the recording you have just heard.
+
+117
+00:17:13,000 --> 00:17:23,000
+Question 16. What does the speakers say even our personal beliefs about effort can do?
+
+118
+00:17:23,000 --> 00:17:39,000
+Question 17. How did the researchers turn on the music toy in their experiment?
+
+119
+00:17:39,000 --> 00:17:55,000
+Question 18. What could the infants do in the experiment according to the speaker?
+
+120
+00:18:10,000 --> 00:18:26,000
+Question 16. If chronic lateness has taken over your life and turned into a defining trait of who you are, it's likely that you're losing out on job offers, recreational opportunities, friendships, and more.
+
+121
+00:18:26,000 --> 00:18:35,000
+If you're showing up late to your own life, get organised, prioritise punctuality, and address any underlying causes.
+
+122
+00:18:35,000 --> 00:18:47,000
+When you have to be somewhere, try to arrive 15-30 minutes before you need to. If you always run late, that means you must be failing to account for something you always do.
+
+123
+00:18:47,000 --> 00:18:56,000
+Anticipate that by giving yourself extra time to arrive. Keep track of whether or not you actually do arrive early.
+
+124
+00:18:56,000 --> 00:19:02,000
+You might find that leaving early gets you to places exactly on time.
+
+125
+00:19:02,000 --> 00:19:12,000
+Set two alarms. Set one alarm that lets you know it's time to drop what you're doing, and a second alarm that means you need to walk out the door.
+
+126
+00:19:12,000 --> 00:19:25,000
+Obey the alarms. As soon as the first alarm goes off, stop what you're doing. If it's something you'll be coming back to, like a project for work, make a note to remind yourself where you left off.
+
+127
+00:19:25,000 --> 00:19:35,000
+Grab everything you need, and make sure you know how to get where you're going. Aim to be out the door and on your way before the second alarm rings.
+
+128
+00:19:36,000 --> 00:19:43,000
+This will only work if you take the alarms seriously, so make sure you react as soon as you hear them.
+
+129
+00:19:44,000 --> 00:19:56,000
+Prepare for the day ahead. Have all of your notes and materials organised well in advance of each event, so that all you have to do is grab them and go when it's the actual day.
+
+130
+00:19:56,000 --> 00:20:08,000
+If mornings are a struggle for you, do as much as you can to ready yourself the night before. Before you go to bed, lay out your clothes and pack your bag for the next day.
+
+131
+00:20:08,000 --> 00:20:19,000
+Learn to leave time in between tasks and meetings. It soon becomes unbearable to shift between one meeting and another without space in between.
+
+132
+00:20:20,000 --> 00:20:25,000
+If you over-schedule yourself, however, you'll arrive late as soon as you hit a bump.
+
+133
+00:20:25,000 --> 00:20:38,000
+As well as giving you space, this time also acts as a buffer between events, which can be borrowed from, should you be held up in a prior meeting, allowing you to still get to the next one on time.
+
+134
+00:20:39,000 --> 00:20:46,000
+Calculate transit time between activities, and then add 10 to 30 minutes for unexpected delays.
+
+135
+00:20:47,000 --> 00:20:53,000
+Questions 19-21 are based on the recording you have just heard.
+
+136
+00:20:53,000 --> 00:20:58,000
+Question 19. What is the speaker's purpose of giving this talk?
+
+137
+00:20:58,000 --> 00:21:05,000
+Question 20. What should you do if mornings are a struggle for you?
+
+138
+00:21:29,000 --> 00:21:36,000
+Question 21. According to the speaker, what can we do to combat unexpected delays?
+
+139
+00:21:36,000 --> 00:21:58,000
+Question 23. Do you think Bostonians put out the welcome mat? Do you find other cities to be more or less polite?
+
+140
+00:21:58,000 --> 00:22:06,000
+Different cities have different fields for visitors. Some are friendly and open. Some are formal and distant.
+
+141
+00:22:06,000 --> 00:22:13,000
+Boston tends to seem hurried and sometimes a little rude. That's what some tourists have said.
+
+142
+00:22:13,000 --> 00:22:22,000
+One study found that people here are less willing to volunteer to help strangers than those residents of other US cities.
+
+143
+00:22:22,000 --> 00:22:28,000
+Take a closer look next time you're in Boston, and here are some of the things you'll probably see.
+
+144
+00:22:28,000 --> 00:22:34,000
+People smoking in the subway stations, despite the frequent reminders not to do so.
+
+145
+00:22:34,000 --> 00:22:40,000
+Pedestrians walking when the crosswalk lights say not to do so, ignoring the cars.
+
+146
+00:22:40,000 --> 00:22:46,000
+Car drivers speeding, making a loud noise with the horn, and occasionally, cursing at each other.
+
+147
+00:22:47,000 --> 00:22:55,000
+Drives who can't be bothered to find a place to park, but instead simply turn on their blinker and stop in the middle of the street.
+
+148
+00:22:55,000 --> 00:23:02,000
+Sometimes, Bostonians seem like they're just too busy to be polite. Why is there city like that?
+
+149
+00:23:02,000 --> 00:23:13,000
+Former US representative, Chester Atkins says it's because the Puritan founding fathers, with themselves impatient and bad tempered and had little time for courtesy.
+
+150
+00:23:13,000 --> 00:23:17,000
+That culture has carried down to the present day he believes.
+
+151
+00:23:17,000 --> 00:23:29,000
+Boston College professor Thomas O'Connor thinks a contributing factor is Boston's history as a city where each new group of immigrants was treated with suspicion and exclusion.
+
+152
+00:23:29,000 --> 00:23:34,000
+That's given Boston a sense of clannishness and reserve he thinks.
+
+153
+00:23:34,000 --> 00:23:41,000
+The idea of a stranger greeting another stranger is simply not part of the local culture he says.
+
+154
+00:23:41,000 --> 00:23:46,000
+People would begin a conversation with someone they know, but not with a stranger.
+
+155
+00:23:46,000 --> 00:23:57,000
+Ralph Whitehead, a professor of journalism at the University of Massachusetts at Amherst, thinks it's because Boston's upper class used manners to make class distinctions.
+
+156
+00:23:57,000 --> 00:24:05,000
+By being snobbish about manners, proper Bostonians made other people scornful of courtesy he says.
+
+157
+00:24:05,000 --> 00:24:10,000
+Some say that's just the way Boston is and that the city will never change.
+
+158
+00:24:10,000 --> 00:24:16,000
+Still, other cities with reputations for worse rudeness are trying hard to change their images.
+
+159
+00:24:16,000 --> 00:24:27,000
+Paris is one example where people are trying to be friendly. New York City is another. There, the city is trying to persuade subway riders to be more considerate.
+
+160
+00:24:27,000 --> 00:24:32,000
+If those cities can make the effort, maybe Boston should as well.
+
+161
+00:24:32,000 --> 00:24:37,000
+Questions 22 to 25 are based on the recording you have just heard.
+
+162
+00:24:37,000 --> 00:24:44,000
+Question 22. What do visitors find about the cities they've been to?
+
+163
+00:24:44,000 --> 00:24:59,000
+Question 23. What did one city find about Bostonians compared with residents of other US cities?
+
+164
+00:25:14,000 --> 00:25:29,000
+Question 24. What does Thomas O'Connor say about the idea of strangers greeting one another?
+
+165
+00:25:29,000 --> 00:25:44,000
+Question 25. What does the speaker think Boston should do?
+
+166
+00:25:44,000 --> 00:25:52,000
+Question 25. What does the speaker think about the city?
+
+167
+00:25:52,000 --> 00:25:59,000
+That's the end of listening comprehension.
+

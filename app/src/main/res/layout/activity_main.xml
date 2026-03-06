@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="英语四六级精听默写"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="50dp"/>
+
+    <Button
+        android:id="@+id/btn_cet4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginBottom="20dp"
+        android:text="进入 四级听力 (CET-4)"
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/btn_cet6"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="进入 六级听力 (CET-6)"
+        android:textSize="20sp"/>
+
+</LinearLayout>

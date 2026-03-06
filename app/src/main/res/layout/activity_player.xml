@@ -9,7 +9,7 @@
     <androidx.media3.ui.PlayerControlView
         android:id="@+id/player_control_view"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="41dp"
         app:show_timeout="0" />
 
     <LinearLayout
@@ -49,6 +49,16 @@
         android:text="校对原文 (修正 AI 识别错误)"
         android:textColor="#FF5722"
         style="?android:attr/borderlessButtonStyle"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="从第八句开始正文"
+        android:textColor="#333333"
+        android:textSize="16sp"
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="match_parent"
